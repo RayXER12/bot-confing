@@ -1,0 +1,2 @@
+# bot-confing
+yesyy
